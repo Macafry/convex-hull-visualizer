@@ -1,0 +1,23 @@
+/* CSS Reset */
+body, header, nav, main, footer, h1, div, img, ul, figure, figcaption, section, article, aside, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+main {
+  width: 100%;
+  text-align: center;
+}
+
+body { min-width: 100vw; }
+
+
+main * {
+  margin: 0 auto;
+}
+
+#shapeA {
+  height: 80%;
+}
