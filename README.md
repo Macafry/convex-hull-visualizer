@@ -1,0 +1,1 @@
+This is a stripped down version of my Minkowski Operations visualizer. It now only focuses on the Convex Hull interactive visualization aspect. Once again, the code to calculate the Convex Hull comes from  Andrii Heonia's library at: https://andriiheonia.github.io/hull/ 
